@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "calm-apples",
+    "slug": "snack-177870c2-5e62-4417-b57c-ee9b9e44aa9f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo-restoapp.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/logo-restoapp.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo-restoapp.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "carlos.com.ar"
+    },
+    "web": {
+      "favicon": "./assets/images/logo-restoapp.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c6e3dc66-b76e-406b-bb22-8d7e0d8d4d76"
+      }
+    }
+  }
+}
