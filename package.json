@@ -13,6 +13,7 @@
     "expo-checkbox": "^2.7.0",
     "firebase": "^10.7.1",
     "metro": "^0.80.2",
+    "metro-config": "^0.80.5",
     "node": "^21.2.0",
     "package.json": "^2.0.1",
     "react": "^18.2.0",
